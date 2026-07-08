@@ -1,2 +1,2 @@
 # PythonMaster
-Modified to check commit
+Modified to check commits
